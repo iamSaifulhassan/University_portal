@@ -1,10 +1,24 @@
-# Student-Portal
-This is my semester 4 project named as <b>Digital Identity</b>.
-<br>
-This project is deeloped in <b>Java</b> with database implimentaion in <b>SQL</b> and this project is simply a desktop based application.
-<br>
-<h3>Project Details</h3>
-<br>
-This project is mainly focused to manage university tasks using dedicated potals of teachers and students.
-<br>
-This project can store and arrang the marks details registered courses and thier details.
+University Portal
+This project is a desktop-based application developed in Java with SQL database integration.
+
+Project Overview
+The University Portal is designed to simplify and manage various academic activities by providing dedicated portals for both teachers and students.
+It allows seamless management of course registrations, marks entries, report generation, and other academic tasks.
+
+Key Features
+Separate Teacher and Student portals
+
+Course Management (register, update, delete courses)
+
+Marks Management (enter, update, view marks)
+
+Student Enrollment in courses
+
+Report Generation (student performance reports)
+
+User Authentication for secure login
+
+Technologies Used
+Java (Swing/AWT for UI)
+
+SQL (MySQL/SQLite) for backend database
