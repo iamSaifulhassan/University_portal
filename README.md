@@ -13,7 +13,7 @@ It allows seamless management of course registrations, marks entries, report gen
 - **Marks Management** (enter, update, view marks)
 - **Student Enrollment** in courses
 - **Report Generation** (student performance reports)
-- - **Results showcase** (all class performance result)
+- **Results showcase** (all class performance result)
 - **User Authentication** for secure login
 
 ## Technologies Used
